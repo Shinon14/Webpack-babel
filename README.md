@@ -1,14 +1,14 @@
 # Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Webpack completo, funcionando. Con Babel.
 
 ### Notas:
-Recuerden reconstruir los módulos de Node
+Para ejecutar este proyecto, ejecuta estos siguientes comandos en la terminal.
 ```
 npm install
 ```
 
-Y para construir el build, recueren:
+Y para construir el build
 ```
 npm run build
 ```
